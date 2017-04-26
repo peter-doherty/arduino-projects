@@ -1,3 +1,5 @@
+#include <DHT.h>
+
 #include <LiquidCrystal.h>
 
 #include <DHT.h>
